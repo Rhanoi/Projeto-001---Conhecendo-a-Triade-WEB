@@ -1,7 +1,7 @@
 # A tríade Web
 Este projeto tem por base os conceitos iniciais sobre HTML, CSS, e JavaScript.
 - Objetivo: Criar uma funcionalidade simples utilizando JavaScript
-- Acesse o site disponível: [Clique Aqui](https://rhanoi.github.io/Projeto_001-Conhecendo-a-Triade-WEB/)
+- Acesse o projeto finalizado: [Clique Aqui](https://rhanoi.github.io/Projeto_001-Conhecendo-a-Triade-WEB/)
 
 ## Maiores aprendizados do projeto
 - HTML
